@@ -1,0 +1,17 @@
+{
+  "name": "scaleorgmeanstacktaskforathenahealth",
+  "version": "1.0.0",
+  "description": "To task given by team",
+  "main": "app.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "vikas bose",
+  "license": "ISC",
+  "dependencies": {
+    "bookshelf": "^0.11.1",
+    "express": "^4.16.2",
+    "knex": "^0.14.2",
+    "mysql": "^2.15.0"
+  }
+}
